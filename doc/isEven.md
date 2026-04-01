@@ -1,4 +1,5 @@
 # isEven()
+**is even**
 
 Essa função verifica se o parâmetro colocado é **par** ou **ímpar**, retornando **True** para par e **False** para ímpar;
 
