@@ -1,7 +1,7 @@
 # bgEven()
 **bigger even**
 
-Essa função primeiro verifica entre dois parâmetros qual deles tem o valor maior, depois ele verifica se o maior núemro é par ou ímpar, retornando true para par e False para ímpar.
+Essa função primeiro verifica entre dois parâmetros qual deles tem o valor maior, depois ele verifica se o maior número é par ou ímpar, retornando true para par e False para ímpar.
 ## exemplo1:
 
 ```
