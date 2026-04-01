@@ -3,7 +3,7 @@ Essa função primeiro verifica entre dois parâmetros qual deles tem o valor ma
 ## exemplo1:
 
 ```
-print(max_Even(32 , 10))
+print(max_even(32 , 10))
 ```
 **Saída:**
 ```
@@ -12,7 +12,7 @@ True
 ## exemplo2:
 
 ```
-print(max_Even(25 , 16))
+print(max_even(25 , 16))
 ```
 **Saída:**
 ```
